@@ -20,4 +20,7 @@ Sou analista de sistemas e estudante de Ciência da Computação. Tenho uma paix
 ## 📫 Como me encontrar:
 - Email: kallebmatheus8814@outlook.com
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=radical)
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=radical) ## 📊 Linguagens Mais Usadas
+
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&theme=radical)
+
