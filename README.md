@@ -19,6 +19,7 @@ Sou analista de sistemas e estudante de Ciência da Computação. Tenho uma paix
 
 ## 📫 Como me encontrar:
 - Email: kallebmatheus8814@outlook.com
+- Linkedin: http://linkedin.com/in/matheus-kalleb-0763a1168
 
 ## Meus Stats:
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=radical)
