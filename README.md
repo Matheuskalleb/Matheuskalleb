@@ -27,7 +27,7 @@ Sou analista de sistemas e estudante de Ciência da Computação. Tenho uma paix
 
 ## Meus Stats:
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=radical)
-<div>
+
 ## 📊 Linguagens Mais Usadas:
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&theme=radical)
-</div>
+
