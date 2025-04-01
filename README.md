@@ -20,13 +20,14 @@ Sou analista de sistemas e estudante de Ciência da Computação. Tenho uma paix
 ## 📫 Como me encontrar:
 - Email: kallebmatheus8814@outlook.com
 - Linkedin: http://linkedin.com/in/matheus-kalleb-0763a1168
+  <div>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ## Meus Stats:
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=radical)
-
+<div>
 ## 📊 Linguagens Mais Usadas:
 - ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&theme=radical)
-
+</div>
