@@ -23,8 +23,8 @@
 
 ## 📫 Como me encontrar:
 
-- E-mail: matheuskallebdev@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/matheus-kalleb/)  
+- E-mail: [kallebmatheus8814@outlook.com]
+- LinkedIn [(https://www.linkedin.com/in/matheus-kalleb/)]  
 - GitHub: [@MatheusKalleb](https://github.com/MatheusKalleb)
 
 ---
