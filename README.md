@@ -1,43 +1,54 @@
-<h1 align="center">Opa, Matheus aqui 👋</h1>
+<h<h1 align="center">👋 Olá, sou Matheus Kalleb!</h1>
 
 <p align="center">
-  Sou Analista de Sistemas com capacidade de aplicar conhecimentos no desenvolvimento de soluções tecnológicas.<br>
-  Transformo ideias em soluções digitais com lógica e paixão por código.<br>
-  Estudante de Ciência e Engenharia da Computação, atento às inovações e em constante evolução.
+  Estudante de <strong>Ciência da Computação</strong> e <strong>Engenharia da Computação</strong><br>
+  Apaixonado por desenvolvimento, lógica e criação de soluções digitais.
 </p>
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧠 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript%20(em%20formação)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 📫 Como me encontrar:
+## 📬 Como me encontrar
 
-- E-mail: [kallebmatheus8814@outlook.com]
-- LinkedIn [(https://www.linkedin.com/in/matheus-kalleb/)]  
-- GitHub: [@MatheusKalleb](https://github.com/MatheusKalleb)
+- 📧 E-mail: [kallebmatheus8814@outlook.com](mailto:kallebmatheus8814@outlook.com)  
+- 💼 LinkedIn: [linkedin.com/in/matheus-kalleb](https://www.linkedin.com/in/matheus-kalleb/)  
+- 🐱 GitHub: [@MatheusKalleb](https://github.com/MatheusKalleb)
 
 ---
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <em>🔄 Estatísticas em constante atualização — em breve mais contribuições!</em>
 </p>
 
 ---
 
+## 💼 Repositório em construção
+
 <p align="center">
-  ✨ Repositório em construção — projetos em breve! 🚧
+  <em>🛠️ Repositório em construção — projetos em breve! 🚀</em>
 </p>
+
+---
+
+## ✨ Frase Estratégica
+
+> “Transformando ideias em soluções digitais com lógica e paixão por código.”
