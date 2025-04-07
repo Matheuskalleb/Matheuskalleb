@@ -8,15 +8,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🧰 Tecnologias e Ferramentas
 
 <p align="center">
@@ -35,6 +26,15 @@
 - E-mail: matheuskallebdev@gmail.com  
 - [LinkedIn](https://www.linkedin.com/in/matheus-kalleb/)  
 - GitHub: [@MatheusKalleb](https://github.com/MatheusKalleb)
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
