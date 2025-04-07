@@ -1,30 +1,43 @@
-# Opa Matheus aqui...
+<h1 align="center">Opa, Matheus aqui 👋</h1>
 
-Sou analista de sistemas e estudante de Ciência da Computação. Tenho uma paixão por tecnologia e estou sempre explorando novas linguagens e frameworks. Aqui você pode ver alguns dos meus projetos e contribuições.
+<p align="center">
+  Sou Analista de Sistemas com capacidade de aplicar conhecimentos no desenvolvimento de soluções tecnológicas.<br>
+  Transformo ideias em soluções digitais com lógica e paixão por código.<br>
+  Estudante de Ciência e Engenharia da Computação, atento às inovações e em constante evolução.
+</p>
 
-## Tecnologias e Ferramentas que Eu Uso:
-### Linguagens de Programação:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=ffffff)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+---
 
-### Ferramentas e Frameworks:
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+---
 
 ## 📫 Como me encontrar:
-  <div>
-<a href = "mailto:kalebmatheus8814@outlook.com-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/matheus-kalleb-0763a1168" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
-## Meus Stats:
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusKalleb&show_icons=true&theme=radical)
+- E-mail: matheuskallebdev@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/matheus-kalleb/)  
+- GitHub: [@MatheusKalleb](https://github.com/MatheusKalleb)
 
-## 📊 Linguagens Mais Usadas:
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusKalleb&layout=compact&theme=radical)
+---
 
+<p align="center">
+  ✨ Repositório em construção — projetos em breve! 🚧
+</p>
