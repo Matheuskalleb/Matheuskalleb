@@ -9,7 +9,6 @@ Sou analista de sistemas e estudante de Ciência da Computação. Tenho uma paix
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=ffffff)
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
-- ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dot-net&logoColor=ffffff)
 
 ### Ferramentas e Frameworks:
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
