@@ -23,7 +23,7 @@
 ## 📬 Como me encontrar
 
 - 📧 E-mail: [kallebmatheus8814@outlook.com](mailto:kallebmatheus8814@outlook.com)  
-- 💼 LinkedIn: [linkedin.com/in/matheus-kalleb](https://www.linkedin.com/in/matheus-kalleb/)  
+- 💼 LinkedIn: [www.linkedin.com/in/matheus-kalleb-0763a1168)  
 - 🐱 GitHub: [@MatheusKalleb](https://github.com/MatheusKalleb)
 
 ---
