@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, Matheus (Theus) Kalleb aqui!</h1>
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong>
+  Estudante de <strong>Ciência da Computação</strong> e <strong>Engenharia da Computação</strong><br>
   Apaixonado por desenvolvimento, lógica e criação de soluções digitais.
 </p>
 
