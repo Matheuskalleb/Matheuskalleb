@@ -52,3 +52,4 @@
 ## ✨ Frase Estratégica
 
 > “Transformando ideias em soluções digitais com lógica e paixão por código.”
+ 
