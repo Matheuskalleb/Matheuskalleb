@@ -1,6 +1,6 @@
 # 👋 Olá! Sou Matheus (Theus) Kalleb
 
-**Desenvolvedor Full-Stack | Estudante de CC | Criador de Conteúdo Tech**
+**Futuro Desenvolvedor Full-Stack | Estudante de CC | Criador de Conteúdo Tech**
 
 ---
 
