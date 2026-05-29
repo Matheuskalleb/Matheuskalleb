@@ -1,108 +1,66 @@
 # 👋 Olá! Sou Matheus (Theus) Kalleb
 
-**Futuro Desenvolvedor Full-Stack | Estudante de CC | Criador de Conteúdo Tech**
+Futuro Desenvolvedor Full-Stack | Estudante de CC | Criador de Conteúdo Tech
 
 ---
 
 ## 🎯 Sobre Mim
 
-Sou um desenvolvedor apaixonado por código limpo e arquitetura escalável. Minha jornada é focada em:
+Desenvolvedor apaixonado por código limpo e arquitetura escalável.
 
-- 🏗️ **Arquitetura de Software** — Design patterns e boas práticas
-- 📊 **Engenharia de Processos** — Modelagem de negócio e ERP
-- 🚀 **Desenvolvimento Full-Stack** — Backend robusto e Frontend responsivo
-- 📚 **Criação de Conteúdo** — [MKtechsolutions](https://www.youtube.com/@MKtechsolutions) (em construção)
-
-> **Transformando ideias complexas em soluções elegantes, escaláveis e documentadas.**
+- 🏗️ Arquitetura de Software
+- 📊 Engenharia de Processos & ERP
+- 🚀 Desenvolvimento Full-Stack
+- 📚 MKtechsolutions (YouTube) (em desenvolvimento)
 
 ---
 
-## 🌟 Projeto em Destaque
+## 🌟 Projetos em Destaque
 
-### 📦 Inventory ERP System
+### Inventory ERP System
+Sistema profissional de gestão de estoque com simulação ERP
 
-**Sistema profissional de gestão de estoque com simulação de processos ERP**
+✅ Modelagem avançada de regras de negócio
+✅ Fluxos de entrada/saída com rastreamento
+✅ Arquitetura em camadas (Facade, Strategy, Repository)
+✅ Testes unitários com Pytest e CI/CD
 
-- ✅ Modelagem avançada de regras de negócio
-- ✅ Fluxos de entrada/saída com rastreamento
-- ✅ Arquitetura em camadas (Facade, Strategy, Repository)
-- ✅ Documentação técnica completa
-- ✅ Testes unitários com Pytest
-- ✅ CI/CD com GitHub Actions
-- ✅ Relatórios consolidados com Pandas
+[Ver repositório →](https://github.com/Matheuskalleb/inventory-erp-system)
 
-**[👉 Ver repositório completo](https://github.com/Matheuskalleb/inventory-erp-system)**
+---
+
+### Non-Conformity Tracker
+Sistema de gestão de qualidade e conformidades baseado em processos industriais reais
+
+✅ Modelagem de processo baseado em rotina industrial real
+✅ Registro e acompanhamento de não conformidades
+✅ Estruturação de dados para análise de falhas
+✅ Aderência a cenários ERP (SAP QM)
+
+[Ver repositório →](https://github.com/Matheuskalleb/non-conformity-tracker)
 
 ---
 
 ## 💻 Stack Técnico
 
-### ⭐ Linguagens Dominadas
-- Python (Intermediate)
-- C# (Intermediate)
-- C++ (Intermediate)
+**Intermediário:**
+Python | C# | C++
 
-### 🔄 Em Formação
-- JavaScript
-- React
-- HTML5
-- CSS3
-- TypeScript
+**Em Formação:**
+JavaScript | React | HTML5 | CSS3 | TypeScript
 
-### 🛠️ Ferramentas & Frameworks
-Git | GitHub | VS Code | Pytest | Pydantic | Pandas | FastAPI
+**Ferramentas:**
+Git | GitHub | VS Code | Pytest | Pydantic | Pandas
 
 ---
 
-## 🎓 Competências Principais
+## 📬 Contato
 
-| Área | Competência |
-|------|-------------|
-| 🏗️ Arquitetura | Design Patterns, SOLID, Clean Code |
-| 📊 Negócio | Modelagem de Processos, ERP, Fluxos |
-| 🧪 Qualidade | Testes Unitários, Validação, CI/CD |
-| 📚 Backend | Python, APIs, Processamento de Dados |
-| 🎨 Frontend | HTML5, CSS3, JavaScript (aprendendo) |
+Email: kallebmatheus8814@outlook.com
+LinkedIn: matheus-kalleb-0763a1168
+GitHub: @Matheuskalleb
+YouTube: MKtechsolutions
 
 ---
 
-## 🚀 Roadmap de Aprendizado
-
-- [x] Python avançado
-- [x] Arquitetura de Software
-- [x] Engenharia de Processos
-- [x] Testes e CI/CD
-- [ ] JavaScript/TypeScript
-- [ ] React
-- [ ] FastAPI
-- [ ] PostgreSQL/MongoDB
-- [ ] DevOps & Docker
-- [ ] Machine Learning
-
----
-
-## 📬 Entre em Contato
-
-- 📧 **Email:** [kallebmatheus8814@outlook.com](mailto:kallebmatheus8814@outlook.com)
-- 💼 **LinkedIn:** [matheus-kalleb-0763a1168](https://www.linkedin.com/in/matheus-kalleb-0763a1168)
-- 🐱 **GitHub:** [@Matheuskalleb](https://github.com/Matheuskalleb)
-- 🎥 **YouTube:** [MKtechsolutions](https://www.youtube.com/@MKtechsolutions) (em construção)
-
----
-
-## ✨ Filosofia de Código
-
-> "Código excelente é legível, testável e mantível. Documentação não é opcional — é essencial."
-
-Acredito que:
-- 📖 Código bem escrito é documentação viva
-- 🧪 Testes não são luxo, são necessidade
-- 🏗️ Arquitetura clara escala melhor
-- 🤝 Colaboração potencializa criatividade
-- 📚 Compartilhar conhecimento eleva a comunidade
-
----
-
-**🔄 Sempre Aprendendo • 💡 Sempre Inovando • 🚀 Sempre Crescendo**
-
-**Vamos criar algo incrível juntos? 🎉**
+"Transformando ideias complexas em soluções elegantes e escaláveis"
